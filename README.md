@@ -1,2 +1,2 @@
-# satellite-imagery-segmentation
+# Satellite Imagery Segmentation
 Jupyter notebook
